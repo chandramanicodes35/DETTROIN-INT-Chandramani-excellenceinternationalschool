@@ -7,9 +7,9 @@
 
 ## Candidate & Submission Metadata
 
-- **Full Name**: Chandramani
+- **Full Name**: Chandramani Yadav
 - **Intern ID**: DETTROIN-INT-2026-CHANDRAMANI
-- **Email Address**: chandramani@example.com
+- **Email Address**: chandramani3535y@gmail.com
 - **GitHub Username**: chandramanicodes35
 - **Selected Website**: Excellence International School ([https://excellenceinternationalschool.com/](https://excellenceinternationalschool.com/))
 - **Live Demo Link**: [https://dettroin-int-school-website.vercel.app](https://dettroin-int-school-website.vercel.app)
