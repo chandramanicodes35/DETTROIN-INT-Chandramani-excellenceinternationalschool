@@ -7,13 +7,13 @@
 
 ## Candidate & Submission Metadata
 
-- **Full Name**: Full Stack Intern Candidate
-- **Intern ID**: DETTROIN-INT-2026-0842
-- **Email Address**: candidate@dettroin-internship.com
-- **GitHub Username**: dettroin-developer
+- **Full Name**: Chandramani
+- **Intern ID**: DETTROIN-INT-2026-CHANDRAMANI
+- **Email Address**: chandramani@example.com
+- **GitHub Username**: chandramanicodes35
 - **Selected Website**: Excellence International School ([https://excellenceinternationalschool.com/](https://excellenceinternationalschool.com/))
 - **Live Demo Link**: [https://dettroin-int-school-website.vercel.app](https://dettroin-int-school-website.vercel.app)
-- **Repository Name**: `DETTROIN-INT-Applicant-Website`
+- **Repository Link**: [https://github.com/chandramanicodes35/DETTROIN-INT-Chandramani-excellenceinternationalschool](https://github.com/chandramanicodes35/DETTROIN-INT-Chandramani-excellenceinternationalschool)
 
 ---
 
