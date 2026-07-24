@@ -87,7 +87,7 @@ export default function Footer({ onOpenPortal }) {
         <div className="footer-bottom">
           <p>© {new Date().getFullYear()} Excellence International School. Redesigned for Dettroin Full Stack Developer Internship Assessment.</p>
           <p className="credit-text">
-            Crafted with <Heart size={14} className="heart-icon" /> by Candidate for <strong>Dettroin Internship Round 1</strong>
+            Crafted with <Heart size={14} className="heart-icon" /> by Chandramani Yadav for <strong>Dettroin Internship Round 1</strong>
           </p>
         </div>
       </div>
